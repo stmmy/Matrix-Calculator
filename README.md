@@ -6,6 +6,7 @@ Can calculate - Transpose, Determinate, addition, subtraction, and multiplicatio
 #Utilizes a singly linked list data structure and recursive algorithms
 
 Program takes 3 or 4 arguments via command line:
+
 Addition: add a.txt b.txt output.txt
 
 (a.txt and b.txt both being text files with seperate matrices,
